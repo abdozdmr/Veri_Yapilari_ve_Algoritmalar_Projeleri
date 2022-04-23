@@ -1,1 +1,1 @@
-Veri yapıları ve algoritmalar ödevleridir. 
+## Veri yapıları ve algoritmalar ödevleridir. 
