@@ -19,4 +19,4 @@ Root olarak 7 yazılır,
 8'in sağına 9,
 3'ün sağına 4,
 3'ün sağına 2 yazılır.
-
+www.patika.dev
